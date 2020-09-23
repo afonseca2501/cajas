@@ -1,0 +1,41 @@
+
+*{box-sizing: border-box;}
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+    padding: 45px;
+}
+
+body {
+    position: relative;
+    width: 1000px;
+    display: inline-block;
+    vertical-align: middle;
+    background-image: linear-gradient(to top,#adadad,#dadada)
+}
+
+.titular{float: left;
+    position:relative; display: inline-block;color: white;width: 300px;height: 560px;padding: 20px;text-align: justify;margin: 10px;margin-right: 0px; align-content: center;
+}
+button {background color: brown;}
+}
+h1{
+    text-align: center;color: slategray;
+}
+h2{
+    text-align: center;color: slategray; font-size: 20px;
+}
+.titularderecho{float: left;
+    position: relative; display: inline-block;color: white;width: 300px;height: 560px;text-align: justify;padding: 20px;
+}
+.titularderecho2{position: relative;float: left; display: inline-block;color: white;width: 300px;height: 560px;text-align: justify;padding: 20px;margin: 10px;margin-left: 0px;margin-right: 0px;
+}
+.Head{
+    width: auto;height: 30 px;margin-top: 10px; text-align: center; padding: 1px;
+}
+p{color: #686868}
+.inferior{position: relative;display: inline-block;text-align: justify;padding: 20px; margin: 10px;margin-top: 0px; text-align: center;}
